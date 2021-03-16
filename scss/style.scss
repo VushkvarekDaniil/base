@@ -1,7 +1,9 @@
-body {
-    margin: 0 auto;
+@import "../node_modules/normalize-scss/sass/normalize/import-now";
 
-    div{
-        background-color: aqua;
-    }
+
+.body 
+{
+color: #000;
 }
+
+
